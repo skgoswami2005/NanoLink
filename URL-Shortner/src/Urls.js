@@ -1,0 +1,1 @@
+export const baseUrl = `https://nano-link-jga9.onrender.com`
